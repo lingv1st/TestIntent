@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestIntent</string>
+    <string name="test_intent">Test Intent</string>
+</resources>
